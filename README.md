@@ -1,6 +1,7 @@
 ## Extrajudicial-Killing-Philippines
 
 Research on the long history of Extrajudicial Killing in the Philippines, one specific instance of which is the 'War on Drugs' of 2016. 
+The datasets and graphics generated here replaces the previous found [here](https://github.com/jonfernq/-jonfernq-Inquirer_List_of_Extrajudicial_Killings). 
 
 ### Graphics
 
